@@ -20,6 +20,10 @@ An analysis of the dataset selected releaved the following:
 - Total 5 star Vine Reviews: 13,127
 - Total 5 star non-Vine reviews: 3,344,959
 
+![Screen Shot 2023-01-12 at 5 52 13 PM](https://user-images.githubusercontent.com/96188669/212197141-9d00e114-a48b-44b8-bfb2-8d099a270bea.png)
+
+![Screen Shot 2023-01-12 at 5 52 21 PM](https://user-images.githubusercontent.com/96188669/212197150-dc5eebbb-160b-4ba7-95bb-2c66359140e6.png)
+
 - Percentage of 5 star Vine reviews: 41%
 - Percentage of 5 star non-Vine reviews: 63%
 
